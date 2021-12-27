@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "kml": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Users\\Dennis\\Documents\\lga.kml\" \"E:\\Users\\Dennis\\Documents\\jfk.kml\" \"E:\\Users\\Dennis\\Documents\\ewr.kml\" \"E:\\Users\\Dennis\\Documents\\isp.kml\" \"E:\\Users\\Dennis\\Documents\\lib.kml\" \"E:\\Users\\Dennis\\Documents\\csk.kml\""
+    }
+  }
+}
